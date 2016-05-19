@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Apple MDM vendor CSR signing"
   spec.description   = "Apple MDM vendor CSR signing"
-  spec.homepage      = "patriciojofre.github.io"
+  spec.homepage      = "https://github.com/patriciojofre"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.bindir        = "exe"
