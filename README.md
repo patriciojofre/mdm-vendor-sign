@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/mdmCSR.svg)](https://badge.fury.io/rb/mdmCSR)
+
 # MdmCSR
 
 Generate apple MDM vendor CSR signing file to upload to https://identity.apple.com/pushcert/
